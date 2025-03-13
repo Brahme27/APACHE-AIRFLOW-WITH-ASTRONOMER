@@ -6,6 +6,8 @@ Welcome to Astronomer! This project was generated after you ran 'astro dev init'
 
 This repository contains three small projects demonstrating how to use Apache Airflow with Astronomer for workflow automation and data pipeline management.
 
+## Open dags folder to check projects
+
 ## Project 1: Machine Learning Pipeline with Airflow  (mlpipeline.py)
 
 ### Description
